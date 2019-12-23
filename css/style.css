@@ -97,7 +97,7 @@ p{
 
 .header{
 	text-align:center;
-	background:url(../img/tanks.png) fill;
+	background:url(../img/tanks.png) stretch;
 	padding:280px 0;
 }
 .logo{
