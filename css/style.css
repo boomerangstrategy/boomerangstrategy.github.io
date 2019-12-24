@@ -97,11 +97,7 @@ p{
 
 .header{
 	text-align:center;
-	background: url(../img/tanks.png) no-repeat centre center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+	background-image: url(../img/tanks.png);
 	/* padding:280px 0; */
 }
 .logo{
