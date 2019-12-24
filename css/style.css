@@ -185,9 +185,10 @@ color: #fff;
 	background:#fff;
 }
 .main-nav{
-	text-align:center;
+	text-align:justify;
 	margin:10px 0 0px;
 	padding:0;
+  min-width: 500px
 	list-style:none;
 }
 .main-nav li{
