@@ -97,7 +97,7 @@ p{
 
 .header{
 	text-align:center;
-	background-image: url(../img/bg.png);
+	background-image: url(../img/bg.png) repeat no-repeat;
 	/* padding:280px 0; */
 }
 .logo{
