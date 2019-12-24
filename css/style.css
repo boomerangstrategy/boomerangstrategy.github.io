@@ -185,16 +185,14 @@ color: #fff;
 	background:#fff;
 }
 .main-nav{
-	text-align:justify;
-  min-width: 500px
+	text-align:center;
 	margin:10px 0 0px;
 	padding:0;
 	list-style:none;
 }
 .main-nav li{
-	display:inline-block;
+	display:inline;
 	margin:0 1px;
-  width: 100%
 }
 .main-nav li a{
 	display:inline-block;
@@ -215,7 +213,7 @@ color: #fff;
 }
 
 .small-logo{
-	padding:0 40px;
+	padding:0 32px;
 }
 
 .main-section{
