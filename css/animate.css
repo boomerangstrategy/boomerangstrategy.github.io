@@ -1122,6 +1122,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .fadeInLeft {
   -webkit-animation-name: fadeInLeft;
   animation-name: fadeInLeft;
+  animation-delay: 1s
 }
 
 @-webkit-keyframes fadeInLeftBig {
@@ -2826,9 +2827,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 @keyframes rollIn {
   0% {
     opacity: 0;
-    -webkit-transform: translateX(-100%) rotate(-120deg);
-    -ms-transform: translateX(-100%) rotate(-120deg);
-    transform: translateX(-100%) rotate(-120deg);
+    -webkit-transform: translateX(-300%) rotate(-720deg);
+    -ms-transform: translateX(-300%) rotate(-720deg);
+    transform: translateX(-300%)  rotate(-720deg);
   }
 
   100% {
@@ -2842,6 +2843,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .rollIn {
   -webkit-animation-name: rollIn;
   animation-name: rollIn;
+  animation-duration: 2s
 }
 
 /* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
