@@ -890,6 +890,14 @@ border: 2px solid #fff;
 	animation-delay: 1s;
 	-webkit-animation-delay: 1s;
 }
+.delay-2s {
+	animation-delay: 2s;
+	-webkit-animation-delay: 2s;
+}
+.delay-3s {
+	animation-delay: 3s;
+	-webkit-animation-delay: 3s;
+}
 .delay-12s {
 	animation-delay: 1.2s;
 	-webkit-animation-delay: 1.2s;
