@@ -80,6 +80,7 @@ h2b{
 	margin:0 0 15px 0;
 	text-align:center;
 	text-transform:uppercase;
+  display: block;
 }
 h3{
 	font-family: 'Montserrat', sans-serif;
@@ -258,6 +259,9 @@ color: #fff;
 
 .main-section{
 	padding:90px 0 110px;
+}
+.main-section2{
+	padding:20px 0 50px;
 }
 
 
